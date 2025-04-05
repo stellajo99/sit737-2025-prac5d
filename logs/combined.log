@@ -1,0 +1,15 @@
+{"level":"info","message":"Server running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New ^ operation requested: 2 ^ 3","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: sqrt(25)","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 are required.","service":"calculator-microservice"}
+{"level":"info","message":"Server running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: sqrt(25)","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: sqrt(-1)","service":"calculator-microservice"}
+{"level":"error","message":"Cannot take square root of a negative number.","service":"calculator-microservice"}
+{"level":"info","message":"New ^ operation requested: 2 ^ ","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 are required.","service":"calculator-microservice"}
+{"level":"info","message":"New % operation requested: 10 % 3","service":"calculator-microservice"}
+{"level":"info","message":"New % operation requested: 10 % 0","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero in modulo operation.","service":"calculator-microservice"}
+{"level":"info","message":"Server running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server running at http://localhost:3000","service":"calculator-microservice"}

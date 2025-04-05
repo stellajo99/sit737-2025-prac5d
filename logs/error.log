@@ -1,0 +1,4 @@
+{"level":"error","message":"Both num1 and num2 are required.","service":"calculator-microservice"}
+{"level":"error","message":"Cannot take square root of a negative number.","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 are required.","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero in modulo operation.","service":"calculator-microservice"}
